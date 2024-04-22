@@ -1,0 +1,3 @@
+D:/studia/Semestr_2/Programowanie_Proceduralne/klastry/cmake-build-debug/CMakeFiles/klastry.dir
+D:/studia/Semestr_2/Programowanie_Proceduralne/klastry/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/studia/Semestr_2/Programowanie_Proceduralne/klastry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
